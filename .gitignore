@@ -1,0 +1,8 @@
+build/
+cmake-build-*/
+*.app/
+.DS_Store
+*.user
+*.db
+*.sqlite
+*.sqlite3
